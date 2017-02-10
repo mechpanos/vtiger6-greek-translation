@@ -901,8 +901,8 @@ $jsLanguageStrings = array(
 	'JS_NO_RECORDS_RELATED_TO_THIS_FILTER' => 'Καμία Καταγραφή δεν Σχετίζετε με Αυτό το Φίλτρο',
 
 	// Calendar Reminder popup
-	'JS_START_DATE_TIME' => 'Ημ.Έναρξης και Ώρα',
-	'JS_END_DATE_TIME' => 'Ημ.Λήξης και ώρα',
+	'JS_START_DATE_TIME' => 'Ημερομηνία και ώρα Έναρξης',
+	'JS_END_DATE_TIME' => 'Ημερομηνία και ώρα Ολοκλήρωσης',
 	'JS_POSTPONE' => 'Αναβολή',
 	'JS_MESSAGE' => 'Μήνυμα',
 
