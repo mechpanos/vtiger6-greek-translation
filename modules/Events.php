@@ -33,7 +33,7 @@ $languageStrings = array(
 	// Blocks
 	'LBL_EVENT_INFORMATION' => 'Πληροφορίες Γεγονότων',
 	'LBL_RECURRENCE_INFORMATION' => 'Πληροφορίες Επανεμφάνισης',
-    'LBL_RELATED_TO' => 'Σχετίζετε με',
+    'LBL_RELATED_TO' => 'Σχετίζεται με',
 	
 	//Fields
 	'Start Date & Time'=>'Ημ.Έναρξης',
@@ -52,7 +52,7 @@ $languageStrings = array(
 	
 	//Activity Type picklist values
 	'Call' => 'Τηλεφώνημα',
-	'Meeting' => 'Ραντεβού',
+	'Meeting' => 'Συνάντηση',
 	
 	//Status picklist values
 	'Planned' => 'Προγραμματισμένο',
