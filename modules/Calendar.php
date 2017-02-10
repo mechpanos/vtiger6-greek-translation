@@ -43,7 +43,7 @@ $languageStrings = array(
 	'Activity Type'=>'Τύπος Δραστηριότητας',
 	'Send Notification'=>'Αποστολή Ειδοποίησης',
 	'Location'=>'Τοποθεσία',
-	'End Date & Time' => 'Ημερομηνία Λήξης & Ώρα',
+	'End Date & Time' => 'Ημερομηνία & Ώρα Ολοκλήρωσης',
 
 	//Side Bar Names
 	'LBL_ACTIVITY_TYPES' => 'Activity Types',
@@ -114,10 +114,10 @@ $languageStrings = array(
 $jsLanguageStrings = array(
 	'LBL_ADD_EVENT_TASK' => 'Προσθήκη Γεγονότος/Εργασίας',
 	'JS_TASK_IS_SUCCESSFULLY_ADDED_TO_YOUR_CALENDAR' => 'Η Εργασία έχει προστεθεί επιτυχώς στο Ημερολόγιό σας',
-    'LBL_SYNC_BUTTON' => 'Synchronize Now',
-    'LBL_SYNCRONIZING' => 'Synchronizing....',
-    'LBL_NOT_SYNCRONIZED' => 'You have not synchronized yet',
-    'LBL_FIELD_MAPPING' => 'Field Mapping',
+    'LBL_SYNC_BUTTON' => 'Συγχρονισμός Τώρα',
+    'LBL_SYNCRONIZING' => 'Συγχρονισμός....',
+    'LBL_NOT_SYNCRONIZED' => 'Δεν έχει γίνει συγχρονισμός ακόμα',
+    'LBL_FIELD_MAPPING' => 'Αντιστοίχιση Πεδίων',
     'LBL_CANT_SELECT_CONTACT_FROM_LEADS' => 'Δεν είναι δυνατή η επιλογή των σχετικών Επαφών ως Προοπτικές',
     'JS_FUTURE_EVENT_CANNOT_BE_HELD' => 'Δεν μπορεί να θεωρηθεί Ολοκληρωμένο στο μέλλον',
 	
